@@ -9,13 +9,13 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/YOUR_USERNAME">
+  <a href="https://github.com/incognito512">
     <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN">
+  <a href="https://www.linkedin.com/in/mark-omondi-7bb648430/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:YOUR_EMAIL">
+  <a href="mailto:omondimark811@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
@@ -30,7 +30,7 @@ I enjoy combining **engineering principles with software and design** to create 
 
 My interests span across:
 
-* 🌐 Networking and telecommunications
+* 🌐 Networking and telecommunications Systems
 * 💻 Website design and full-stack development
 * 🎨 UI/UX and digital product design
 * 🏢 ERP systems development
@@ -89,7 +89,7 @@ I have a strong interest in cybersecurity and network protection, with foundatio
 * Network protection
 * Secure system configuration
 
-### 🧱 Firewall Knowledge
+### 🧱 Firewall Management Knowledge
 
 I am interested in understanding how firewalls are used to protect networks and systems through:
 
@@ -139,19 +139,19 @@ My UI/UX interests include:
 ### Programming & Web
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,tailwind,bootstrap,java,python" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,tailwind,php,javascript,python" />
 </p>
 
 ### Databases & Backend Technologies
 
 <p>
-<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,firebase,supabase" />
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,firebase,supabase,cloudflare" />
 </p>
 
 ### Development & Design Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,docker" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,ae" />
 </p>
 
 ### Networking & Systems
@@ -182,7 +182,7 @@ My UI/UX interests include:
 
 # 🎓 Education
 
-### 🏫 Jomo Kenyatta University of Agriculture and Technology — JKUAT
+### 🏫 Jomo Kenyatta University of Agriculture and Technology — JKUAT(JUJA CAMPUS)
 
 **Bachelor of Science in Telecommunications and Information Engineering**
 
@@ -201,7 +201,7 @@ Areas of academic and professional interest:
 │                  TECHNOLOGY INTERESTS                     │
 ├───────────────────────────────────────────────────────────┤
 │                                                           │
-│  🌐 Networking & Telecommunications                       │
+│  🌐 Networking & Telecommunication                       │
 │                                                           │
 │  💻 Full-Stack Web Development                            │
 │                                                           │
@@ -279,12 +279,12 @@ I believe good technology should balance four things:
 # 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=transparent&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=incognito512&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=incognito512&layout=compact&theme=transparent&hide_border=true" height="170"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=transparent&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=incognito512&theme=transparent&hide_border=true" />
 </p>
 
 ---
@@ -292,7 +292,7 @@ I believe good technology should balance four things:
 # 🏆 GitHub Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=flat&no-frame=true&no-bg=true&margin-w=10" />
+  <img src="https://github-profile-trophy.vercel.app/?username=incognito512&theme=flat&no-frame=true&no-bg=true&margin-w=10" />
 </p>
 
 ---
@@ -300,7 +300,7 @@ I believe good technology should balance four things:
 # 📈 Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=00000000&color=0078D4&line=0078D4&point=111827&area=true&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=incognito512&bg_color=00000000&color=0078D4&line=0078D4&point=111827&area=true&hide_border=true" />
 </p>
 
 ---
@@ -336,15 +336,15 @@ I want to develop solutions that connect **people, systems, networks, and inform
 
 <p align="center">
 
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:omondimark811@gmail.com">
 <img src="https://img.shields.io/badge/Email-Get%20in%20Touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN">
+<a href="https://www.linkedin.com/in/mark-omondi-7bb648430/">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://github.com/incognito512">
 <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
@@ -361,5 +361,5 @@ I want to develop solutions that connect **people, systems, networks, and inform
 </p>
 
 <p align="center">
-<i>"Stay curious. Keep building. Keep improving."</i>
+<i>"Stay curious. Keep building. Keep on improving."</i>
 </p>
