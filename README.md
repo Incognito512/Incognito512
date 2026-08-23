@@ -1,218 +1,295 @@
-# 👋 Hey, I'm Mark Loch
+# 👋 Hello, I'm Mark Loch Omondi
 
-### Full-Stack Developer • UI/UX Enthusiast • Creative Technologist
+### 📡 Telecommunications & Information Engineering Student | JKUAT
 
-> I build **modern digital experiences, intelligent systems, and scalable web applications** that combine clean engineering with thoughtful design.
+### 💻 Full-Stack Developer | 🌐 Networking Enthusiast | 🎨 UI/UX Enthusiast
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Website-111827?style=for-the-badge\&logo=google-chrome\&logoColor=white)](#)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](#)
-[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)](#)
-
----
-
-## 🚀 About Me
-
-I'm a developer who enjoys turning ideas into **functional, visually compelling digital products**.
-
-My work sits at the intersection of:
-
-* 💻 **Software Development**
-* 🎨 **UI/UX & Product Design**
-* 🌐 **Modern Web Applications**
-* ⚙️ **Systems & Automation**
-* 📱 **Responsive Digital Experiences**
-* 🤖 **AI-assisted Development**
-* 🔌 **Embedded & IoT Projects**
-
-I care about more than just writing code. I focus on building products that are **usable, scalable, responsive, performant, and visually memorable.**
-
-```text
-Design → Architecture → Development → Testing → Deployment → Improvement
-```
-
----
-
-## 🛠️ Tech Stack
-
-### Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,java,python,cpp" />
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00AEEF&center=true&vCenter=true&width=800&lines=Telecommunications+%26+Information+Engineering+Student;Full-Stack+Web+Developer;Networking+%26+Cybersecurity+Enthusiast;ERP+Systems+Developer;UI%2FUX+Enthusiast;Always+Learning%2C+Building+%26+Improving" />
 </p>
 
-### Frontend
-
-<p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,vite" />
-</p>
-
-### Backend & Databases
-
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,mysql,postgres,mongodb,firebase,supabase" />
-</p>
-
-### Tools & Platforms
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,vercel,netlify,docker,arduino" />
+<p align="center">
+  <a href="https://github.com/YOUR_USERNAME">
+    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:YOUR_EMAIL">
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
 
 ---
 
-## 💼 What I Build
+## 👨‍💻 About Me
 
-### 🌐 Web Applications
+I'm **Mark Loch Omondi**, a Telecommunications and Information Engineering student at **Jomo Kenyatta University of Agriculture and Technology (JKUAT)** with a strong interest in technology, software development, networking, and digital systems.
 
-Modern responsive websites and web applications with:
+I enjoy combining **engineering principles with software and design** to create practical solutions to real-world problems.
 
-* Responsive layouts
-* Interactive interfaces
-* Authentication systems
-* Dashboards
-* REST APIs
+My interests span across:
+
+* 🌐 Networking and telecommunications
+* 💻 Website design and full-stack development
+* 🎨 UI/UX and digital product design
+* 🏢 ERP systems development
+* 🔐 Cybersecurity fundamentals
+* 🧱 Firewall technologies and network security
+* 🛠️ Software installation and system configuration
+* 🤝 Team collaboration and technical problem solving
+
+I am particularly interested in building systems that are not only functional, but also **secure, intuitive, scalable, and visually polished**.
+
+---
+
+## 🚀 What I Do
+
+### 💻 Website Design & Full-Stack Development
+
+I build responsive web applications from the interface layer through to backend logic and data management.
+
+My development interests include:
+
+* Responsive website development
+* Frontend interfaces
+* Backend systems
 * Database integration
-* CMS functionality
-* Admin panels
+* Authentication systems
+* REST APIs
+* Admin dashboards
+* Business management platforms
+* Interactive web experiences
 
-### 🎨 UI/UX Experiences
+### 🌐 Networking
 
-I enjoy translating ideas and references into polished interfaces with:
+I have foundational knowledge and practical interest in computer networking, including:
 
+* Network architecture
+* TCP/IP
+* LAN/WAN concepts
+* IP addressing
+* Subnetting
+* Routing fundamentals
+* Switching fundamentals
+* Network troubleshooting
+* Network infrastructure
+* Basic network security
+
+### 🔐 Cybersecurity
+
+I have a strong interest in cybersecurity and network protection, with foundational knowledge in areas such as:
+
+* Cybersecurity principles
+* Network security
+* Threat awareness
+* Authentication and access control
+* Security best practices
+* Basic firewall concepts
+* Network protection
+* Secure system configuration
+
+### 🧱 Firewall Knowledge
+
+I am interested in understanding how firewalls are used to protect networks and systems through:
+
+* Traffic filtering
+* Access control
+* Rule-based security
+* Network segmentation
+* Monitoring
+* Basic firewall configuration concepts
+
+### 🏢 ERP Systems Development
+
+I'm interested in developing systems that help organizations manage and automate their operations.
+
+Areas of interest include:
+
+* Finance & Accounting
+* Human Resource Management
+* Procurement
+* Inventory
+* Customer/member management
+* Credit management
+* Reporting
+* Workflow automation
+* Administrative dashboards
+
+### 🎨 UI/UX Design
+
+I enjoy designing interfaces that are visually appealing while remaining practical and easy to use.
+
+My UI/UX interests include:
+
+* Wireframing
+* Interface design
+* Responsive layouts
 * Design systems
-* Component libraries
+* User flows
+* Prototyping
 * Micro-interactions
 * Motion design
-* Responsive layouts
-* Accessibility
-* Interactive prototypes
-
-### ⚙️ Business & Management Systems
-
-I work on systems designed to streamline real-world organizational processes, including:
-
-* Financial management
-* Credit management
-* Human resource management
-* Procurement
-* Investment management
-* Member management
-* Reporting dashboards
-* Workflow automation
-
-### 🔌 Embedded Systems & IoT
-
-I also explore hardware/software integration using technologies such as:
-
-* Arduino
-* Sensors
-* Actuators
-* GSM
-* Bluetooth
-* LCD interfaces
-* Automation systems
+* Usability
 
 ---
 
-## 🌟 Featured Projects
+# 🛠️ Skills
 
-<table>
-<tr>
-<td width="50%">
+### Programming & Web
 
-### 🏢 Business Management Systems
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,tailwind,bootstrap,java,python" />
+</p>
 
-Enterprise-oriented platforms designed to centralize workflows, automate processes and provide actionable dashboards.
+### Databases & Backend Technologies
 
-**Focus:**
-`Workflow Automation` `Dashboards` `Database Systems` `Business Logic`
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,firebase,supabase" />
+</p>
 
-</td>
+### Development & Design Tools
 
-<td width="50%">
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,docker" />
+</p>
 
-### 🌐 Modern Portfolio Experiences
+### Networking & Systems
 
-Interactive portfolio websites featuring cinematic transitions, responsive layouts, animated timelines, project showcases and advanced scrolling interactions.
-
-**Focus:**
-`React` `Next.js` `GSAP` `UI/UX`
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-### 🌱 Smart Agriculture Systems
-
-Arduino-based agricultural automation integrating environmental sensors and automated irrigation.
-
-**Focus:**
-`Arduino` `IoT` `Sensors` `Automation`
-
-</td>
-
-<td width="50%">
-
-### 📊 Management Dashboards
-
-Data-driven dashboards designed to make complex operational information easier to understand and manage.
-
-**Focus:**
-`Data Visualization` `Analytics` `UX` `Responsive Design`
-
-</td>
-</tr>
-</table>
+<p>
+<img src="https://img.shields.io/badge/Networking-Fundamentals-0078D4?style=for-the-badge&logo=cisco&logoColor=white" />
+<img src="https://img.shields.io/badge/Network%20Security-Fundamentals-0F6CBD?style=for-the-badge&logo=protonvpn&logoColor=white" />
+<img src="https://img.shields.io/badge/Firewalls-Knowledge-FF6B35?style=for-the-badge&logo=fortinet&logoColor=white" />
+<img src="https://img.shields.io/badge/Cybersecurity-Fundamentals-111827?style=for-the-badge&logo=hackthebox&logoColor=white" />
+</p>
 
 ---
 
-## 🧠 Current Interests
+# 📚 Core Competencies
 
-```yaml
-web_development:
-  - React
-  - Next.js
-  - TypeScript
-  - Modern CSS
-  - Web animations
+| Area               | Skills                                                                         |
+| ------------------ | ------------------------------------------------------------------------------ |
+| 🌐 Networking      | TCP/IP, IP Addressing, Subnetting, Routing, Switching, Network Troubleshooting |
+| 💻 Web Development | HTML, CSS, JavaScript, TypeScript, React, Next.js, Backend Development         |
+| 🎨 UI/UX           | Wireframing, Prototyping, Responsive Design, User Flows, Interface Design      |
+| 🏢 ERP Development | Business Processes, Dashboards, Workflow Automation, Database Systems          |
+| 🔐 Cybersecurity   | Security Fundamentals, Access Control, Network Security, Threat Awareness      |
+| 🧱 Firewalls       | Traffic Filtering, Rules, Access Policies, Network Protection Fundamentals     |
+| 🛠️ Systems        | Software Installation, Configuration, Troubleshooting                          |
+| 🤝 Collaboration   | Teamwork, Communication, Problem Solving, Project Collaboration                |
 
-design:
-  - UI/UX
-  - Design systems
-  - Motion design
-  - Interactive experiences
+---
 
-systems:
-  - Business process automation
-  - Database architecture
-  - API development
-  - Cloud platforms
+# 🎓 Education
 
-emerging_technology:
-  - Artificial Intelligence
-  - IoT
-  - Embedded systems
-  - Intelligent automation
+### 🏫 Jomo Kenyatta University of Agriculture and Technology — JKUAT
+
+**Bachelor of Science in Telecommunications and Information Engineering**
+
+📍 Kenya
+
+Areas of academic and professional interest:
+
+`Telecommunications` • `Computer Networks` • `Information Systems` • `Software Development` • `Network Security` • `Cybersecurity` • `Systems Engineering`
+
+---
+
+# 💼 Areas I'm Exploring
+
+```text
+┌───────────────────────────────────────────────────────────┐
+│                  TECHNOLOGY INTERESTS                     │
+├───────────────────────────────────────────────────────────┤
+│                                                           │
+│  🌐 Networking & Telecommunications                       │
+│                                                           │
+│  💻 Full-Stack Web Development                            │
+│                                                           │
+│  🏢 Enterprise & ERP Systems                              │
+│                                                           │
+│  🎨 UI/UX & Digital Product Design                        │
+│                                                           │
+│  🔐 Cybersecurity & Network Protection                    │
+│                                                           │
+│  🧱 Firewall & Infrastructure Technologies                │
+│                                                           │
+│  ☁️ Cloud & Modern Software Systems                       │
+│                                                           │
+│  🤖 Automation & Intelligent Systems                       │
+│                                                           │
+└───────────────────────────────────────────────────────────┘
 ```
 
 ---
 
-## 📈 GitHub Activity
+# 🔥 Featured Project Areas
+
+### 🌐 Full-Stack Web Applications
+
+Building modern websites and web applications with responsive interfaces, backend services, databases, authentication, and business logic.
+
+### 🏢 ERP & Management Systems
+
+Developing systems that digitize organizational processes such as finance, HR, procurement, credit management, reporting, and administration.
+
+### 🌱 Smart & Connected Systems
+
+Exploring solutions that combine software, networking, sensors, automation, and embedded technologies.
+
+### 🔐 Network & Security Projects
+
+Exploring network infrastructure, cybersecurity fundamentals, firewall technologies, and secure system design.
+
+---
+
+# 🤝 Teamwork
+
+Technology is rarely built alone.
+
+I value:
+
+**Communication → Collaboration → Problem Solving → Knowledge Sharing → Continuous Improvement**
+
+I enjoy working in teams where different technical perspectives come together to build better solutions.
+
+---
+
+# 🧠 Development Philosophy
+
+> **Build with purpose. Design with users in mind. Secure the system. Keep learning.**
+
+I believe good technology should balance four things:
+
+```text
+                  ┌───────────────┐
+                  │   PURPOSE     │
+                  └───────┬───────┘
+                          │
+          ┌───────────────┼───────────────┐
+          ↓               ↓               ↓
+      🎨 DESIGN       ⚙️ ENGINEERING    🔐 SECURITY
+          │               │               │
+          └───────────────┼───────────────┘
+                          ↓
+                  🚀 REAL-WORLD VALUE
+```
+
+---
+
+# 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&theme=transparent" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=transparent&hide_border=true" height="170"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&hide_border=true&theme=transparent" />
+  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=transparent&hide_border=true" />
 </p>
 
 ---
 
-## 🏆 GitHub Contribution
+# 🏆 GitHub Achievements
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=flat&no-frame=true&no-bg=true&margin-w=10" />
@@ -220,64 +297,69 @@ emerging_technology:
 
 ---
 
-## 📊 Contribution Graph
+# 📈 Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=00000000&color=6b7280&line=6366f1&point=111827&area=true&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=00000000&color=0078D4&line=0078D4&point=111827&area=true&hide_border=true" />
 </p>
 
 ---
 
-## 💡 My Development Philosophy
+# 🌱 Currently Learning
 
-> **Good software solves the problem. Great software also makes the solution feel effortless.**
-
-I believe successful digital products should balance:
-
-```text
-                    ┌──────────────┐
-                    │   PRODUCT    │
-                    └──────┬───────┘
-                           │
-        ┌──────────────────┼──────────────────┐
-        ↓                  ↓                  ↓
-   🎨 DESIGN          ⚙️ ENGINEERING       👤 UX
-        │                  │                  │
-        └──────────────────┼──────────────────┘
-                           ↓
-                    🚀 GREAT EXPERIENCE
+```yaml
+focus:
+  - Advanced Full-Stack Development
+  - Computer Networking
+  - Cybersecurity
+  - Firewall Technologies
+  - Enterprise Resource Planning Systems
+  - UI/UX Design
+  - Cloud Technologies
+  - System Administration
+  - Secure Software Development
 ```
 
 ---
 
-## 🤝 Let's Build Something
+# 🎯 Goals
 
-I'm interested in collaborating on projects involving:
+My current goal is to continue growing at the intersection of:
 
-**Web Development • SaaS • UI/UX • Automation • AI • Business Systems • IoT • Creative Technology**
+**Telecommunications + Software Engineering + Networking + Cybersecurity**
 
-Whether it's a new product, an internal business system, an experimental idea, or a challenging technical problem, I'm always interested in turning concepts into working products.
+I want to develop solutions that connect **people, systems, networks, and information** while solving practical problems in organizations and communities.
 
-### 📫 Get In Touch
+---
 
-<p>
+# 📫 Let's Connect
+
+<p align="center">
+
 <a href="mailto:YOUR_EMAIL">
 <img src="https://img.shields.io/badge/Email-Get%20in%20Touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-<a href="YOUR_LINKEDIN">
+
+<a href="https://www.linkedin.com/in/YOUR_LINKEDIN">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-<a href="YOUR_PORTFOLIO">
-<img src="https://img.shields.io/badge/Portfolio-Explore-111827?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+
+<a href="https://github.com/YOUR_USERNAME">
+<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
+
 </p>
 
 ---
 
 <p align="center">
 
-### ⚡ Build. Learn. Experiment. Ship.
+### ⚡ Engineering Networks. Building Systems. Designing Experiences.
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=flat-square&color=6366f1" alt="Profile views"/>
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=flat-square&color=0078D4" alt="Profile Views"/>
 
+</p>
+
+<p align="center">
+<i>"Stay curious. Keep building. Keep improving."</i>
 </p>
