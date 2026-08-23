@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Mark Loch Omondi
+# 👋 Hi, I'm Mark Loch Omondi
 
 ### 📡 Telecommunications & Information Engineering Student | JKUAT
 
