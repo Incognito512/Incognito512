@@ -1,8 +1,9 @@
-# 👋 Hi, I'm Mark Loch Omondi
+# 👋 Hi, I'm Mark Omondi
 
-### 📡 Telecommunications & Information Engineering Student | JKUAT
+### 📡 Telecommunications & Information Engineering Student | JKUAT<br> 
+<p align="center">Jomo Kenyatta University of Agriculture And Technology.</p>
 
-### 💻 Full-Stack Developer | 🌐 Networking Enthusiast | 🎨 UI/UX Enthusiast
+### 🌐 Networking Enthusiast | 💻 Full-Stack Developer | 🎨 UI/UX Enthusiast
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00AEEF&center=true&vCenter=true&width=800&lines=Telecommunications+%26+Information+Engineering+Student;Full-Stack+Web+Developer;Networking+%26+Cybersecurity+Enthusiast;ERP+Systems+Developer;UI%2FUX+Enthusiast;Always+Learning%2C+Building+%26+Improving" />
@@ -30,16 +31,16 @@ I enjoy combining **engineering principles with software and design** to create 
 
 My interests span across:
 
-* 🌐 Networking and telecommunications Systems
+* 🧱 Firewall technologies and network security
 * 💻 Website design and full-stack development
 * 🎨 UI/UX and digital product design
 * 🏢 ERP systems development
 * 🔐 Cybersecurity fundamentals
-* 🧱 Firewall technologies and network security
+* 🌐 Networking and telecommunications Systems
 * 🛠️ Software installation and system configuration
 * 🤝 Team collaboration and technical problem solving
 
-I am particularly interested in building systems that are not only functional, but also **secure, intuitive, scalable, and visually polished**.
+I am particularly interested in working on, improving and building systems that are not only functional, but also **secure, intuitive, scalable, and visually polished**.
 
 ---
 
@@ -279,12 +280,9 @@ I believe good technology should balance four things:
 # 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=incognito512&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=incognito512&layout=compact&theme=transparent&hide_border=true" height="170"/>
-</p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=incognito512&theme=transparent&hide_border=true" />
+  <img src="https://streak-stats.demolab.com/?user=incognito512&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
@@ -299,9 +297,9 @@ I believe good technology should balance four things:
 
 # 📈 Contribution Activity
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=incognito512&bg_color=00000000&color=0078D4&line=0078D4&point=111827&area=true&hide_border=true" />
-</p>
+
+ ![3D Profile](https://raw.githubusercontent.com/incognito512/incognito512/main/profile-3d-contrib/profile-night-rainbow.svg)
+
 
 ---
 
